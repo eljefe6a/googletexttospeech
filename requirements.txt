@@ -1,0 +1,4 @@
+
+google-cloud-texttospeech
+pydub
+mutagen
